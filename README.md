@@ -1,12 +1,12 @@
 Hi, I'm Alejandro 👋
 Welcome to my GitHub profile!
 
-Im graduated computer game programer and recently start software enginer based from london.
+I'm a graduate in computer game programming and a software engineer based in London.
 
-Mostly try to improve my already existing projects from both areas or when i get a very interesting idea i put all my focus to finish that project first until the first complete version is done.
+I enjoy improving my existing projects across both fields, and whenever I come up with a particularly exciting idea, I like to focus on it fully until I complete the first working version.
 
-For now i have 40+ projects in total, most of them being private because they simple projects for practice, a couple of them are main projects that soon will make public. 
+At the moment, I have over 40 projects in total. Most of them are private, as they are smaller practice projects, while a few are larger main projects that I plan to make public soon.
 
-My favorite projects are [trace](https://trace-job-app.netlify.app/) and **shade**. 
+My favorite projects are [trace](https://trace-job-app.netlify.app/) and [shade](https://www.youtube.com/watch?v=n0AcNsMh2Lo).
 
-
+I'm always learning, building, and exploring new ideas, and GitHub is where I share part of that journey.
